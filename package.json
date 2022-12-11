@@ -1,0 +1,15 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "продажа и offchain-offline предъявление билетов на мероприятия",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Maxim Likhanov",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  }
+}
